@@ -7,7 +7,7 @@ Web Developer enfocada en frontend y desarrollo web en general
 Actualmente aprendiendo nuevas tecnologías y mejorando cada día
 Basada en España
 Pregúntame sobre HTML, CSS, JavaScript y desarrollo web
-Cómo contactarme: bea.garcia@email.com
+Cómo contactarme: beatriz.gutierrez@bim6d.es
 
 
 Tecnologías y herramientas
