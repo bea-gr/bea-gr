@@ -6,7 +6,7 @@ Sobre mí
 Web Developer enfocada en frontend y desarrollo web en general
 Actualmente aprendiendo nuevas tecnologías y mejorando cada día
 Me apasiona crear interfaces limpias, funcionales y accesibles 
-siempre con ganas de aprender y construir cosas nuevas
+siempre con ganas de aprender y construir cosas nuevas.
 
 Cómo contactarme: beatriz.gutierrez@bim6d.es
 
