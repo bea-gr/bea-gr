@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Bea</h1>
-<h3 align="center">Web Developer | Apasionada por crear experiencias en la web</h3>
+<h3 align="center">Web Developer</h3>
 
 Sobre mí
 
